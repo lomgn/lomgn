@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 ---
 
 <div align="center">
-  <img height="140" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lomgn&show_icons=true&theme=dark" />
+  <img height="120" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lomgn&show_icons=true&theme=dark" />
   <img height="120" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lomgn&layout=compact&theme=dark" />
 </div>
 
