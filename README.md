@@ -18,7 +18,19 @@ Here are some ideas to get you started:
 # Olá! Eu sou a Lorrany 👋
 
 💻 Apaixonada por tecnologia e inovação.  
-🚀 Aprimorando meus estudos de UX/UI Design com as ferramentas Figma, Adobe XD e com as linguagens de programação relacionadas ao Front-end e Back-end, como PHP, HTML, CSS, Python, Laravel, Vue.js, MySQL e hospedagem em nuvem no AWS EC2.
+🚀 Aprimorando meus estudos de UX/UI Design com as ferramentas Figma, Adobe XD e com as linguagens de programação relacionadas ao Front-end e Back-end.
+
+### 🚀 Tecnologias que estou estudando:
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white">
+</p>
+
 
 ---
 
