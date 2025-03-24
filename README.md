@@ -6,7 +6,7 @@
 ---
 
 ![Profile views](https://komarev.com/ghpvc/?username=lomgn&color=blue)  
-[![LinkedIn](https://img.shields.io/badge/Conecte-se%20comigo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/lorranymagano/)
+[![LinkedIn](https://img.shields.io/badge/Perfil%20Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/lorranymagano/)
 
 ---
 
