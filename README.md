@@ -38,23 +38,9 @@
 
 ---
 
-### 🚀 Contribuições e Atividade:
-![Lorrany's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lomgn&theme=tokyonight&hide_border=true&area=true)
-
----
-
-### 🏆 Conquistas:
-![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=lomgn&theme=tokyonight&row=1&no-bg=true&no-frame=true)
-
----
-
 ### 📊 Estatísticas detalhadas:
 ![GitHub Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lomgn&theme=tokyonight)
 
 ---
 
-🌟 **Dica:** Se o **Most Used Languages** não está mostrando todas as tecnologias corretamente:
-- Verifique se os arquivos `.py`, `.dart`, `.swift` e `.php` não estão em repositórios privados.
-- Faça commits recentes nesses arquivos para atualizar a estatística.
-- Aguarde algumas horas para que a API do GitHub Readme Stats recalcule os dados.
 
