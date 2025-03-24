@@ -30,9 +30,11 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://br.linkedin.com/in/lorranymagano/)  
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lomgn&show_icons=true&theme=dark" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lomgn&layout=compact&theme=dark" />
+  <img height="100" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lomgn&show_icons=true&theme=dark" />
+  <img height="100" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lomgn&layout=compact&theme=dark" />
 </div>
+
+
 
 ![Profile views](https://komarev.com/ghpvc/?username=lomgn&color=blue)
 
