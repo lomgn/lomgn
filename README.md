@@ -26,5 +26,4 @@
 
 <div align="center">
   <img height="100em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lomgn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lomgn&layout=compact&langs_count=15&theme=tokyonight&exclude_repo=nome-do-repo-excluido"/>
 </div>
