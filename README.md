@@ -5,11 +5,6 @@
 
 ---
 
-![Profile views](https://komarev.com/ghpvc/?username=lomgn&color=blue)  
-[![LinkedIn](https://img.shields.io/badge/Perfil%20Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/lorranymagano/)
-
----
-
 ### 🚀 Tecnologias que estou estudando e aprimorando:
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5&logoColor=E34F26">
@@ -29,7 +24,23 @@
 ---
 
 ### 📊 Minhas Estatísticas:
+
 <div align="center">
-  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lomgn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lomgn&layout=compact&langs_count=7&theme=tokyonight"/>
+  <img height="120em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lomgn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lomgn&layout=compact&langs_count=10&theme=tokyonight&hide=css,html"/>
 </div>
+
+---
+
+### 🚀 Contribuições e Atividade:
+![Lorrany's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=lomgn&theme=tokyonight&hide_border=true&area=true)
+
+---
+
+### 🏆 Conquistas:
+![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=lomgn&theme=tokyonight&row=1&no-bg=true&no-frame=true)
+
+---
+
+![Profile views](https://komarev.com/ghpvc/?username=lomgn&color=blue)  
+[![LinkedIn](https://img.shields.io/badge/Perfil%20Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/lorranymagano/)
