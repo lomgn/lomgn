@@ -1,4 +1,4 @@
-# Olá! Eu sou a Lorrany 👋
+#### Olá! Eu sou a Lorrany 👋
 
 💻 Apaixonada por tecnologia e inovação.  
 🚀 Aprimorando meus estudos de UX/UI Design com Figma, Adobe XD e o meu desenvolvimento Full Stack.
@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/Perfil%20Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/lorranymagano/)  
 ![Profile views](https://komarev.com/ghpvc/?username=lomgn&color=blue)
 
-### Tecnologias que estou estudando e aprimorando:
+#### Tecnologias que estou estudando e aprimorando:
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5&logoColor=E34F26&color=808080">
   <img src="https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3&logoColor=1572B6&color=808080">
