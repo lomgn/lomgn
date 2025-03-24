@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/Perfil%20Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/lorranymagano/)  
 ![Profile views](https://komarev.com/ghpvc/?username=lomgn&color=blue)
 
-### 🚀 Tecnologias que estou estudando e aprimorando:
+# Tecnologias que estou estudando e aprimorando:
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5&logoColor=E34F26">
   <img src="https://img.shields.io/badge/CSS3-111?style=for-the-badge&logo=css3&logoColor=1572B6">
