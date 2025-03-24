@@ -24,24 +24,15 @@
   <img src="https://img.shields.io/badge/Flutter-111?style=for-the-badge&logo=flutter&logoColor=02569B">
   <img src="https://img.shields.io/badge/Dart-111?style=for-the-badge&logo=dart&logoColor=0175C2">
   <img src="https://img.shields.io/badge/Swift-111?style=for-the-badge&logo=swift&logoColor=F05138">
-  <img src="https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python&logoColor=3776AB">
+  <img src="https://img.shields.io/badge/MySQL_Workbench-111?style=for-the-badge&logo=mysql&logoColor=4479A1">
 </p>
 
 ---
 
-### 📊 Minhas Estatísticas:
-
 <div align="center">
-  <img height="100em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lomgn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="80em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lomgn&layout=compact&langs_count=15&theme=tokyonight&exclude_repo=nome-do-repo-excluido"/>
+  <img height="90em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lomgn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="90em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lomgn&layout=compact&langs_count=15&theme=tokyonight&exclude_repo=nome-do-repo-excluido"/>
 
 </div>
-
----
-
-### 📊 Estatísticas detalhadas:
-![GitHub Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lomgn&theme=tokyonight)
-
----
 
 
