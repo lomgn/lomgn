@@ -3,12 +3,8 @@
 💻 Apaixonada por tecnologia e inovação.  
 🚀 Aprimorando meus estudos de UX/UI Design com Figma, Adobe XD e o meu desenvolvimento Full Stack.
 
----
-
 [![LinkedIn](https://img.shields.io/badge/Perfil%20Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/lorranymagano/)  
 ![Profile views](https://komarev.com/ghpvc/?username=lomgn&color=blue)
-
----
 
 ### 🚀 Tecnologias que estou estudando e aprimorando:
 <p align="center">
@@ -27,11 +23,9 @@
   <img src="https://img.shields.io/badge/MySQL_Workbench-111?style=for-the-badge&logo=mysql&logoColor=4479A1">
 </p>
 
----
-
 <div align="center">
-  <img height="90em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lomgn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="90em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lomgn&layout=compact&langs_count=15&theme=tokyonight&exclude_repo=nome-do-repo-excluido"/>
+  <img height="100em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lomgn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lomgn&layout=compact&langs_count=15&theme=tokyonight&exclude_repo=nome-do-repo-excluido"/>
 
 </div>
 
