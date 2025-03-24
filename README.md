@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+# Olá! Eu sou a Lorrany 👋
+
+💻 Apaixonada por tecnologia e inovação.  
+🚀 Aprimorando meus estudos de UX/UI Design com as ferramentas Figma, Adobe XD e com as linguagens de programação relacionadas ao Front-end e Back-end, como PHP, HTML, CSS, Python, Laravel, Vue.js, MySQL e hospedagem em nuvem no AWS EC2.
+
+---
+⭐ Vamos conectar!  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=blue)](https://br.linkedin.com/in/lorranymagano/)  
