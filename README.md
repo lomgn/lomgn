@@ -5,6 +5,11 @@
 
 ---
 
+![Profile views](https://komarev.com/ghpvc/?username=lomgn&color=blue)  
+[![LinkedIn](https://img.shields.io/badge/Perfil%20Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/lorranymagano/)
+
+---
+
 ### 🚀 Tecnologias que estou estudando e aprimorando:
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-111?style=for-the-badge&logo=html5&logoColor=E34F26">
@@ -19,6 +24,7 @@
   <img src="https://img.shields.io/badge/Flutter-111?style=for-the-badge&logo=flutter&logoColor=02569B">
   <img src="https://img.shields.io/badge/Dart-111?style=for-the-badge&logo=dart&logoColor=0175C2">
   <img src="https://img.shields.io/badge/Swift-111?style=for-the-badge&logo=swift&logoColor=F05138">
+  <img src="https://img.shields.io/badge/Python-111?style=for-the-badge&logo=python&logoColor=3776AB">
 </p>
 
 ---
@@ -26,8 +32,8 @@
 ### 📊 Minhas Estatísticas:
 
 <div align="center">
-  <img height="120em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lomgn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lomgn&layout=compact&langs_count=10&theme=tokyonight&hide=css,html"/>
+  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lomgn&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lomgn&layout=compact&langs_count=15&theme=tokyonight&hide=css,html"/>
 </div>
 
 ---
@@ -42,5 +48,13 @@
 
 ---
 
-![Profile views](https://komarev.com/ghpvc/?username=lomgn&color=blue)  
-[![LinkedIn](https://img.shields.io/badge/Perfil%20Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/lorranymagano/)
+### 📊 Estatísticas detalhadas:
+![GitHub Summary Cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lomgn&theme=tokyonight)
+
+---
+
+🌟 **Dica:** Se o **Most Used Languages** não está mostrando todas as tecnologias corretamente:
+- Verifique se os arquivos `.py`, `.dart`, `.swift` e `.php` não estão em repositórios privados.
+- Faça commits recentes nesses arquivos para atualizar a estatística.
+- Aguarde algumas horas para que a API do GitHub Readme Stats recalcule os dados.
+
